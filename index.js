@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const buildtlb = require('nos-tlb')
 const initify = require('nos-init')
 const fs = require('fs')
